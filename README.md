@@ -28,3 +28,7 @@ theoretical variance of the distribution.
    <p><b>Note:</b> For more detailed analysis of each observation and inferernce drawn from it, Please have a look at full report  <a href="https://github.com/rajanskumarsoni/Concepts-in-Statistical-Learning-Theory/blob/master/Assignment_1/CSLT_Assignment_1.pdf">Click here</a>.</p>
     </embed>
    </object>
+   
+   ## Course Project 2 ##
+   <b> Goal:</b> The assignment aims at predicting house prices given training and test house data of
+20-dimensional features and comparing the performance of various regression methods.
