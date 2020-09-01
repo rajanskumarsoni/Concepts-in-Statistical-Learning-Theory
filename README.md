@@ -30,5 +30,5 @@ theoretical variance of the distribution.
    </object>
    
    ## Course Project 2 ##
-   <b> Goal:</b> The assignment aims at predicting house prices given training and test house data of
+   <b> Goal:</b> The project aims at predicting house prices given training and test house data of
 20-dimensional features and comparing the performance of various regression methods.
