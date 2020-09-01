@@ -31,4 +31,15 @@ theoretical variance of the distribution.
    
    ## Course Project 2 ##
    <b> Goal:</b> The project aims at predicting house prices given training and test house data of
-20-dimensional features and comparing the performance of various regression methods.
+20-dimensional features and comparing the performance of various regression methods. Here we have tried three models.
+1.  Lasso
+2.  Polynomial Regression
+3.  Stepwise regression
+
+Experiment involved:-
+Compute the regression weights and interpret them based on the methods allotted.
+* Plotting the coefficient profiles of top 5 interesting features based on the largest change of the
+coefficients over iterations (as in Fig. 3.10 (a) in Hastie’s book).
+* Plotting the coefficient profiles of each method separately. 
+* Evaluating of the models with Residual Sum of Squares (RSS) (or MSE) metric using the
+computed regression weights, predictors and outcome.
