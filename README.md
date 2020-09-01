@@ -15,3 +15,10 @@ can be simulated in R with rexp(n, lambda) where lambda is the rate parameter.
 The mean of the exponential distribution is 1/lambda and the standard deviation is
 also 1/lambda. By Setting different lambda all of the simulations. We investigated the distribution of averages of 40 exponentials.
 Worked on thousand simulations.
+
+<b> Outcome </b>
+* calcuilated the sample mean and compared it to the theoretical mean of the
+distribution.
+* Showed how variable the sample is, and compared it to the
+theoretical variance of the distribution.
+* Showed that the distribution is approximately normal using plot.
