@@ -43,3 +43,8 @@ coefficients over iterations (as in Fig. 3.10 (a) in Hastie’s book).
 * Plotting the coefficient profiles of each method separately. 
 * Evaluating of the models with Residual Sum of Squares (RSS) (or MSE) metric using the
 computed regression weights, predictors and outcome.
+<object data="https://github.com/rajanskumarsoni/Concepts-in-Statistical-Learning-Theory/blob/master/Assignment_2/CSLT_Assignment_2.pdf " width="700px" height="700px">
+    <embed src="https://github.com/rajanskumarsoni/Concepts-in-Statistical-Learning-Theory/blob/master/Assignment_2/CSLT_Assignment_2.pdf">
+   <p><b>Note:</b> For more detailed analysis of each observation and inferernce drawn from it, Please have a look at full report  <a href="https://github.com/rajanskumarsoni/Concepts-in-Statistical-Learning-Theory/blob/master/Assignment_2/CSLT_Assignment_2.pdf ">Click here</a>.</p>
+    </embed>
+   </object>
