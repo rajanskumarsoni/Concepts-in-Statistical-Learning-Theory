@@ -7,7 +7,7 @@ Experiment involved:-
 * Plotting the bias-variance against model complexity(Guassian noise).
 * Plotting the bias and variance as a function of sigma.
 
-## Course project 2 ##
+
 ### Exponential distribution in R ###
 <b> Goal : </b> Here we investigate the exponential distribution (1 dimensional)
 in R and compare it with the Central Limit Theorem. The exponential distribution
@@ -22,3 +22,9 @@ distribution.
 * Showed how variable the sample is, and compared it to the
 theoretical variance of the distribution.
 * Showed that the distribution is approximately normal using plot.
+
+<object data="https://github.com/rajanskumarsoni/Concepts-in-Statistical-Learning-Theory/blob/master/Assignment_1/CSLT_Assignment_1.pdf " width="700px" height="700px">
+    <embed src="https://github.com/rajanskumarsoni/Concepts-in-Statistical-Learning-Theory/blob/master/Assignment_1/CSLT_Assignment_1.pdf">
+   <p><b>Note:</b> For more detailed analysis of each observation and inferernce drawn from it, Please have a look at full report  <a href="https://github.com/rajanskumarsoni/Concepts-in-Statistical-Learning-Theory/blob/master/Assignment_1/CSLT_Assignment_1.pdf">Click here</a>.</p>
+    </embed>
+   </object>
